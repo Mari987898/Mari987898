@@ -63,7 +63,7 @@
 ---
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mari987898&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mari987898&bg_color=00BFFF&color=00BFFF&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
   </a>
 
 <div align="center">
@@ -73,4 +73,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
