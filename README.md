@@ -1,69 +1,75 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100da5&height=120&section=header"/>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Mariana!/>+:%29;<Hello,+I'm+Mariana!/>+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Mariana!/>+:%29;<Hello,+I'm+Mariana!/>+:%29;)](https://git.io/typing-svg)
 
 
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  Hello! My name is Mariana Ibrahim. <br />
 
-- 👀 I’m interested in programming and designer
-- 🌱 I’m currently learning:  `.CSS` | `.HTML`;
-- 📫 How to reach me:
-  Instagram: @marianaibrahimguimaraes
-  LinkedIn: Mariana Ibrahim Guimarães 
-- 😄 Pronouns: she/ her
-- ⚡ Fun fact: I like learning new things
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at programação.
 
-  ---- 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to graduate and, in the future, enter a physiotherapy college.<br />
 
-</br>
-<!--
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dsouloficial&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-  </a>
-</p>
--->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mari987898&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=FFFAFA&text_color=008080&bg_color=0d1117" alt="dsoul oficial github stats" /> 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Figma, and Phyton.<br />
+ 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mari987898&layout=compact&hide_border=true&title_color=00BFFF&text_color=008080&bg_color=0d1117" />
-</div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my portfolio!
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
+
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mari987898&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=Mari987898&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mari987898&Dark_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  </p>
+</details>
 
 ### connect with me:
 <div>
 <p align="rigth">
-  <a href="https://www.linkedin.com/in/Mariana-Ibrahim-Guimarães/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
-  <a href="https://www.instagram.com/marianaibrahimguimaraes/" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/-Twitter-%230099B7?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">
+  </a> 
+
+  <a href="https://www.instagram.com//" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+</div>
 
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,"/>
+</a>
 
-
-###  Styling Languages 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-### Other
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23114B?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%20078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) 
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?logo=microsoftteams&style=for-the-badge&logoColor=fff)
+  ### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode," />
+</a>
 
 ---
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mari987898&bg_color=00BFFF&color=00BFFF&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mari987898&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
   </a>
 
 <div align="center">
@@ -73,4 +79,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100da5&height=120&section=footer"/>
